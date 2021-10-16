@@ -17,7 +17,7 @@ export default   {
       return [
           {
               category: 'Lançamentos',
-              items: await basicAxios(`/movie/now_playing?api_key=${API_KEY}&language=pt-BR&page=7`)           
+              items: await basicAxios(`/movie/now_playing?api_key=${API_KEY}&language=pt-BR&page=2`)           
           },
       ]
   },
