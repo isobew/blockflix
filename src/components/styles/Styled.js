@@ -295,6 +295,7 @@ export const DetailMovie = styled.section`
       border-radius: 5px;
       background-color: grey;
       color: black;
+      height: 300px;
       width: 160px;
       margin: 10px;
     }
