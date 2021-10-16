@@ -276,7 +276,7 @@ export const DetailMovie = styled.section`
     img{
       border-radius: 5px;
       margin: 7px; 
-      height: 200px;
+      height: 230px;
     }
     .cast{
       display: flex;
