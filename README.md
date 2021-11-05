@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# <p align=center>Getting Started with Create React App</p>
+
+## <p align=center>You can also access this application by clicking <a href='https://blockflix-isabella-e-jessica.netlify.app'>here.</p>
+
+<img src='https://user-images.githubusercontent.com/78851164/140465880-2a6629d3-bbed-4907-a94a-ac67c75c4379.png' />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
